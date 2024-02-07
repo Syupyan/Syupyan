@@ -56,7 +56,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/syupyan">
-        <img src="https://jsonnet.org/img/laravel.svg" width="48" height="48" alt="Laravel" />
+        <img src="./img/laravel.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
