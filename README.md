@@ -44,7 +44,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/syupyan">
-        <img src="./img/php.svg" width="48" height="48" alt="PHP" />
+        <img src="https://www.php.net/images/logos/new-php-logo.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
