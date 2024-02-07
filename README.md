@@ -1,15 +1,8 @@
 <h1 align="left" id="macropower-title">:wave::smile: Hai, Aku Syupyan</h1>
 <h3 align="left">Backend Dev.</h3>
 
-<p align="left">
-[![Page Views](https://komarev.com/ghpvc/?username=macropower)](https://github.com/MacroPower/MacroPower)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com)](https://jacobcolvin.com)
-[![Stack Exchange Reputation](https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/4868262)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube)](https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw)
-[![GitHub Followers](https://img.shields.io/github/followers/MacroPower?style=flat&logo=github)](https://github.com/MacroPower?tab=followers)
-[![Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/muhammad-syupyan-arpan/)[![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:syupyan@gmail.com)[![Vercel](https://img.shields.io/badge/Vercel-Deploy-blue)](https://syupyan.vercel.app)
 
-</p>
 
 
 - :mag: &nbsp;Saya menyukai hal baru pada dunia teknologi
