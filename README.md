@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title">:wave::smile: Hai, Aku Syupyan</h1>
 <h3 align="left">Backend Dev.</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/muhammad-syupyan-arpan/)[![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:syupyan@gmail.com)[![Vercel](https://img.shields.io/badge/Vercel-Deploy-blue)](https://syupyan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/muhammad-syupyan-arpan/) [![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:syupyan@gmail.com) [![Vercel](https://img.shields.io/badge/Vercel-Deploy-blue)](https://syupyan.vercel.app)
 
 
 
