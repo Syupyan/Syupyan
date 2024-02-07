@@ -1,5 +1,5 @@
-<h1 align="left" id="macropower-title">:wave::smile: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left" id="macropower-title">:wave::smile: Hai, Aku Syupyan</h1>
+<h3 align="left">Backend Dev.</h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
+- :up: &nbsp;Saya menyukai hal baru pada dunia teknologi
 - :seedling: &nbsp;I’m currently working on my **[homelab]**
 - :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
