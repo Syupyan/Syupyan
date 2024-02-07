@@ -22,80 +22,63 @@
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
 
-- :up: &nbsp;Saya menyukai hal baru pada dunia teknologi
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :mag: &nbsp;Saya menyukai hal baru pada dunia teknologi
+- :seedling: &nbsp;Berkembang dengan teknologi adalah impian saya
+- :speech_balloon: &nbsp;Saya suka mendiskusikan tentang teknologi
+- :pisces: &nbsp; Hehehe
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id=https://github.com/syupyan">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Alat, dan bahasa yang sering saya gunakan.
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://github.com/syupyan">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="https://github.com/syupyan">
+        <img src="./img/php.svg" width="48" height="48" alt="PHP" />
       </a>
-      <br>Python
+      <br>PHP
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="https://github.com/syupyan" >
+        <img src="https://docs.gofiber.io/img/logo-dark.svg" width="48" height="48" alt="Fiber" />
       </a>
-      <br>Jsonnet
+      <br>Fiber Go
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="https://github.com/syupyan">
+        <img src="https://jsonnet.org/img/laravel.svg" width="48" height="48" alt="Laravel" />
       </a>
-      <br>TypeScript
+      <br>Laravel
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="https://github.com/syupyan">
+        <img src="./img/codeigniter.svg" width="48" height="48" alt="Codeigniter" />
       </a>
-      <br>Kubernetes
+      <br>Codeigniter
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      <a href="https://github.com/syupyan" >
+        <img src="./img/flutter.svg" width="48" height="48" alt="bootstrap" />
       </a>
-      <br>Docker
+      <br>Flutter
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      <a href="https://github.com/syupyan">
+        <img src="./img/bootstrap.svg" width="48" height="48" alt="bootstrap" />
       </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+      <br>bootstrap
     </td>
   </tr>
 </table>
 
 <!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
