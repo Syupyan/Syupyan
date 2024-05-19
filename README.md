@@ -3,11 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/muhammad-syupyan-arpan/) [![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:syupyan@gmail.com) [![Vercel](https://img.shields.io/badge/Vercel-Deploy-blue)](https://syupyan.vercel.app)
 
-<video width="600" controls>
-  <source src="Rick.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<iframe width="560" height="315" src="https://youtu.be/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 - :mag: &nbsp;Saya menyukai hal baru pada dunia teknologi
 - :seedling: &nbsp;Berkembang dengan teknologi adalah impian saya
