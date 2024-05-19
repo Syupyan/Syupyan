@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/muhammad-syupyan-arpan/) [![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:syupyan@gmail.com) [![Vercel](https://img.shields.io/badge/Vercel-Deploy-blue)](https://syupyan.vercel.app)
 
-
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
 
 - :mag: &nbsp;Saya menyukai hal baru pada dunia teknologi
 - :seedling: &nbsp;Berkembang dengan teknologi adalah impian saya
